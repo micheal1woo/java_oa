@@ -2,7 +2,7 @@ public class Bus extends PubTrans {
     Bus() {
 
     }
-    //busd
+    //busd2
     Bus(int num) {
         this.num = num;
         this.custom = 0;

@@ -63,7 +63,7 @@ public class Taxi extends PubTrans {
         pay = 0;
 
     }
-    //dd
+    //dd2
     void change() {
         if (gas <= 10) {
             System.out.println("주유량 :" + gas);
