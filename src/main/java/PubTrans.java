@@ -22,7 +22,7 @@ public class PubTrans {
             System.out.println("운행중이 아닙니다.");
         }
     }
-
+    //dd
     void change() {
         if (gas <= 0 || !drive) {
             custom = 0;
